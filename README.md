@@ -10,8 +10,6 @@ Welcome to my GitHub profile! I'm a passionate Software Developer with a knack f
 
 Explore the world of Pokemon with this TypeScript React app that fetches data from the [Pokemon API](https://pokeapi.co/)
 
-![project image](https://raw.githubusercontent.com/joemas08/pokemon-react-project/main/public/demo-screenshot1.png)
-
 ### Features
 
 - **Dynamic Pokemon Query:** Fetch and display a Pokemon from the API.
