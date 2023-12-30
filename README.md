@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate Software Developer with a knack f
 
 Explore the world of Pokemon with this TypeScript React app that fetches data from the [PokéAPI](https://pokeapi.co/)
 
-#### Features
+### Features
 
 - **Dynamic Pokemon Query:** Fetch and display a Pokemon from the API.
 - **Pokemon Details:** View detailed information about each Pokemon.
@@ -22,7 +22,7 @@ Explore the world of Pokemon with this TypeScript React app that fetches data fr
 
 Small operating system written in C and developed on Linux Mint
 
-#### Features
+### Features
 
 - **File Operations:** `type`, `exec`, `copy`, `create`, `del`
 
