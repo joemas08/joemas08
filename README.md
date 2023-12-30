@@ -8,14 +8,27 @@ Welcome to my GitHub profile! I'm a passionate Software Developer with a knack f
 
 ### [Pokemon Web App with React](https://github.com/joemas08/pokemon-react-project)
 
-Explore the world of Pokemon with this TypeScript React app that fetches data from the [Pokemon API](https://pokeapi.co/)
+Explore the world of Pokemon with this TypeScript React app that fetches data from the [PokéAPI](https://pokeapi.co/)
 
-### Features
+#### Features
 
 - **Dynamic Pokemon Query:** Fetch and display a Pokemon from the API.
 - **Pokemon Details:** View detailed information about each Pokemon.
 - **Search:** Search for specific Pokemon by name or ID.
 - **Responsive Design:** Changes the page color depending on the Pokemon's type.
+
+
+### [Operating System Project](https://github.com/joemas08/comp350ProjectD)
+
+Small operating system written in C and developed on Linux Mint
+
+#### Features
+
+- **File Operations:** `type`, `exec`, `copy`, `create`, `del`
+
+- **Directory Management:** `dir`
+
+- **Help and Information:** `help`
 
 ## 🔧 Technologies & Tools
 
