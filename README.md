@@ -10,6 +10,9 @@ Welcome to my GitHub profile! I'm a passionate Software Developer with a knack f
 
 Explore the world of Pokemon with this TypeScript React app that fetches data from the [PokéAPI](https://pokeapi.co/)
 
+### [Capstone Project](https://github.com/joemas08/jmasoneCubessProject)
+This project includes data retrieval from a Wufoo form, SQLite database management, and a PyQt5 GUI for updating, displaying, and claiming project submissions with persistent storage.
+
 ### [Operating System Project](https://github.com/joemas08/comp350ProjectD)
 
 Small operating system written in C and developed on Linux Mint
